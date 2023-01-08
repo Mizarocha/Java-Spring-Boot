@@ -1,5 +1,6 @@
-# Java Spring Boot
-Desafio Back-end Attornatus 
+<h1 align="center"> Java Spring Boot</h1>
+
+<h3 align="center">Desafio Back-end Attornatus </h3>
 
 #### Criando uma API REST com banco de dados usando Java e Spring Boot 
 
@@ -79,6 +80,12 @@ INSERT INTO tb_address(street, zip_Code, number, city) VALUES ('Rua cinco', '211
 ```
 
 
+<h3 align="center"> Autora: Artemiza Rocha </h3>   
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/artemiza-rocha/a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://github.com/Mizarocha" target="_blank"><img src="https://img.shields.io/badge/-GITHUB-%23E4405F?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  </div>
 
+<h4 align="center">Desenvolvido com 💜 </h4>
 
